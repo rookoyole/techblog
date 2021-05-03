@@ -84,7 +84,7 @@ Features:
 
 Repository Link: [https://github.com/rookoyole/techblog](https://github.com/rookoyole/techblog)
 
-Deployed Application: [https://drive.google.com/file/d/1iiKo1JnaprVdBitZSKo3ptK5A2kXPftM/view](https://drive.google.com/file/d/1iiKo1JnaprVdBitZSKo3ptK5A2kXPftM/view)
+Deployed Application: [https://cryptic-river-67719.herokuapp.com/(https://cryptic-river-67719.herokuapp.com/)
 
 <!-- CONTACT -->
 ## Contact
