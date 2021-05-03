@@ -15,6 +15,8 @@ a {
   color: #225ca3;
   font-weight: bold;
   transition: color .1s;
+  color: rgb(117, 32, 32);
+  
 }
 
 a:hover {
@@ -30,6 +32,7 @@ button {
   transition: background-color .1s;
   cursor: pointer;
   border-radius: 5px;
+  
 }
 
 button:hover {
@@ -80,15 +83,18 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 0 1%;
+  
+  background-color: rgb(145, 102, 47);
 }
 
 header h1 {
-  font-size: 1em;
+  font-size: 1.5em;
 }
 
 main {
   flex: 1;
   padding: 2% 4%;
+  background-color: burlywood;
 }
 
 .btn-no-style {
@@ -102,6 +108,7 @@ main {
   font-weight: bold;
   transition: color .1s;
   margin-left: 16px;
+  color: cyan;
 }
 
 .btn-no-style:hover {
